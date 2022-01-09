@@ -1,0 +1,7 @@
+name: HoneyDuel
+version: '${project.version}'
+main: com.github.beastyboo.modduel.HoneyDuelPluginLoader
+depend: [ WorldEdit ]
+authors: [ BeastyBoo ]
+description: A team duel plugin
+website: https://github.com/BeastyBoo
